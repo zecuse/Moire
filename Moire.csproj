@@ -98,6 +98,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Moire\Concentric.png" />
+    <Resource Include="Images\Moire\Dots.png" />
+    <Resource Include="Images\Moire\DotsCompact.png" />
+    <Resource Include="Images\Moire\Hexs.png" />
+    <Resource Include="Images\Moire\HexsCompact.png" />
+    <Resource Include="Images\Moire\Test.png" />
+    <Resource Include="Images\Moire\Tris.png" />
+    <Resource Include="Images\Pause.png" />
+    <Resource Include="Images\Play.png" />
+    <Resource Include="Images\Refresh.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
